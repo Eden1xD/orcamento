@@ -87,13 +87,7 @@ export default function LoginClient({ next }: { next: string }) {
           Criar uma
         </Link>
       </p>
-      <div className="mt-6 rounded-md border border-line bg-ink/50 px-4 py-3">
-        <p className="font-mono text-[10px] leading-relaxed text-steel-dim">
-          ACESSO DEMO DO PAINEL
-          <br />
-          <span className="text-steel">admin@vetor.studio · admin123</span>
-        </p>
-      </div>
+      
     </div>
   );
 }
